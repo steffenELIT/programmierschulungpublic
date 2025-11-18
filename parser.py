@@ -13,15 +13,7 @@ for t in titles:
 """
 AUFGABEN:
 1. Nur titles mit einem bestimmten Keyword printen
-keyword = input("keyword: ").lower()
-for t in titles:
-    if keyword in t.get_text().lower():
-        print(t.get_text())
 
 2. Titles in einer .txt-Datei abspeichern
-with open("titles.txt", "w") as f:
-    for t in titles:
-        f.write(t.get_text() + "\n")
 
-        
 """
