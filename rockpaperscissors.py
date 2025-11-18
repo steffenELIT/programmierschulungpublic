@@ -16,7 +16,8 @@ else:
 
 """
 AUFGABEN:
-1. Programm loopen bis man "quit" eingibt.
-2. "lizard" und "spock" hinzufügen
+1. "lizard" und "spock" hinzufügen
+2. Programm loopen bis man "quit" eingibt.
 3. unerlaubten input verweigern
+
 """
